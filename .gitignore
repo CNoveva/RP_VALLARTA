@@ -1,0 +1,4 @@
+.env
+error_log
+**/error_log
+*.sql

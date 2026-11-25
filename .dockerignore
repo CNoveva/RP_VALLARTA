@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+.env.example
+*.sql
+error_log
+**/error_log
+DEPLOY_COOLIFY.md
